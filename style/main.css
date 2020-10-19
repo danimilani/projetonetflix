@@ -105,3 +105,30 @@ header nav a:hover{
 .carrossel-filmes{
     margin-top:7px;
 }
+
+/*filme amelie*/
+.filmeamelie{
+    font-size: 16px;
+    background-image: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url(/img/ameliecapa.jpg);
+    
+    height: 400px;
+    background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.filmeamelie p{
+    margin-left: 15px;
+}
+
+p{
+    margin-left:15px;
+}
+
+h4{
+    margin-left: 15px;
+    color: grey;
+}
