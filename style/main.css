@@ -109,7 +109,7 @@ header nav a:hover{
 /*filme amelie*/
 .filmeamelie{
     font-size: 16px;
-    background-image: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url(/img/ameliecapa.jpg);
+    background-image: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url(../img/ameliecapa.jpg);
     
     height: 400px;
     background-size: cover;
