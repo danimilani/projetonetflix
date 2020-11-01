@@ -1,4 +1,4 @@
-# Projeto Netflix
+Projeto Netflix
 
 Esse projeto consistiu em recriar a interface da página principal do Netflix utilizando HTML, CSS e Javascript. Aproveitei para colocar em destaque um dos meus filmes favoritos!
 
