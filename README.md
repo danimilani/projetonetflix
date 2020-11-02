@@ -22,7 +22,7 @@ Este projeto foi postado no meu Linkedin [aqui.](https://www.linkedin.com/posts/
 
 E foi compartilhado no Linkedin da Digital Innovation One [aqui.](https://www.linkedin.com/posts/digitalinnovation-one_a-daniella-milani-est%C3%A1-em-rumo-%C3%A0-constru%C3%A7%C3%A3o-activity-6726130343558152192-0ekm)
 
-O site final está disponível [aqui.](danimilani.github.io/projetonetflix/)
+O site final está disponível [aqui.](https://danimilani.github.io/projetonetflix/)
 
 ## Autor
 
