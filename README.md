@@ -1,4 +1,6 @@
-# Projeto Netflix
+<img align="center" width="400" height="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2014%2F10%2Fnetflix-logo-5.png&imgrefurl=https%3A%2F%2Flogodownload.org%2Fnetflix-logo%2F&tbnid=2kkaEwSkYYCkfM&vet=12ahUKEwiCspuzyuLsAhVOMLkGHbunD8EQMygGegUIARDcAQ..i&docid=Lr_q5oUUluTWqM&w=3500&h=946&q=logo%20netflix&hl=en&ved=2ahUKEwiCspuzyuLsAhVOMLkGHbunD8EQMygGegUIARDcAQ">
+
+# Projeto Netflix 🎬
 
 Esse projeto consistiu em recriar a interface da página principal do Netflix utilizando HTML, CSS e Javascript. Aproveitei para colocar em destaque um dos meus filmes favoritos!
 
