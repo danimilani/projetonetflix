@@ -4,6 +4,6 @@ Esse projeto consistiu em recriar a interface da página principal do Netflix ut
 
 Foi um projeto que eu adorei fazer e com ele aprendi muitas funcionalidades como containers, flexbox e utilização de plugins JQuery.
 
-Este projeto foi postado no meu Linkedin aqui: https://www.linkedin.com/posts/daniella-milani_frontend-mulheresnatecnologia-bootcamp-activity-6723911640456192000-PjAT
+Este projeto foi postado no meu Linkedin [aqui: ](https://www.linkedin.com/posts/daniella-milani_frontend-mulheresnatecnologia-bootcamp-activity-6723911640456192000-PjAT)
 
-E foi compartilhado no Linkedin da Digital Innovation One aqui: https://www.linkedin.com/posts/digitalinnovation-one_a-daniella-milani-est%C3%A1-em-rumo-%C3%A0-constru%C3%A7%C3%A3o-activity-6726130343558152192-0ekm
+E foi compartilhado no Linkedin da Digital Innovation One [aqui: ](https://www.linkedin.com/posts/digitalinnovation-one_a-daniella-milani-est%C3%A1-em-rumo-%C3%A0-constru%C3%A7%C3%A3o-activity-6726130343558152192-0ekm)
