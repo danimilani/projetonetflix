@@ -1,39 +1,23 @@
-# Projeto Netflix 🎬 | Netflix Project 🎬 |
+# Netflix Project 🎬 | Projeto Netflix 🎬 | 
 
-## [EN] Project Description
+##[EN]
+## Project Description
 
 In this project I've recreated the Netflix initial page using HTML, CSS and Javascript. I took the opportunity to highlight one of my favourite movies!
 
 I've enjoyed to build this project and I could learn a lot of new functionalities as containers, flexbox and JQuery plugins.
 
-## [PT] Descrição do Projeto
-
-Esse projeto consistiu em recriar a interface da página principal do Netflix utilizando HTML, CSS e Javascript. Aproveitei para colocar em destaque um dos meus filmes favoritos!
-
-Foi um projeto que eu adorei fazer e com ele aprendi muitas funcionalidades como containers, flexbox e utilização de plugins JQuery.
-
-## [EN] Language Codes
+## Language Codes
 
 - [x] HTML
 - [x] CSS
 - [x] Javascript
 
-
-## [PT] Linguagens Utilizadas
-
-- [x] HTML
-- [x] CSS
-- [x] Javascript
-
-## [EN] Project Status
+## Project Status
 
 Finished ✅
 
-## [PT] Status do Projeto
-
-Concluído ✅
-
-## [EN] Links
+## Links
 
 This project was posted in my Linkedin page [here.](https://www.linkedin.com/posts/daniella-milani_frontend-mulheresnatecnologia-bootcamp-activity-6723911640456192000-PjAT)
 
@@ -41,7 +25,24 @@ It was shared by Digital Innovation One in its Linkedin page [here.](https://www
 
 The final webpage is available [here.](https://danimilani.github.io/projetonetflix/)
 
-## [PT] Links Úteis
+##[PT]
+## Descrição do Projeto
+
+Esse projeto consistiu em recriar a interface da página principal do Netflix utilizando HTML, CSS e Javascript. Aproveitei para colocar em destaque um dos meus filmes favoritos!
+
+Foi um projeto que eu adorei fazer e com ele aprendi muitas funcionalidades como containers, flexbox e utilização de plugins JQuery.
+
+## Linguagens Utilizadas
+
+- [x] HTML
+- [x] CSS
+- [x] Javascript
+
+## Status do Projeto
+
+Concluído ✅
+
+## Links Úteis
 
 Este projeto foi postado no meu Linkedin [aqui.](https://www.linkedin.com/posts/daniella-milani_frontend-mulheresnatecnologia-bootcamp-activity-6723911640456192000-PjAT)
 
