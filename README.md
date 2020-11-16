@@ -1,6 +1,6 @@
 # Netflix Project 🎬 | Projeto Netflix 🎬 | 
 
-##[EN]
+## [EN]
 ## Project Description
 
 In this project I've recreated the Netflix initial page using HTML, CSS and Javascript. I took the opportunity to highlight one of my favourite movies!
@@ -25,7 +25,7 @@ It was shared by Digital Innovation One in its Linkedin page [here.](https://www
 
 The final webpage is available [here.](https://danimilani.github.io/projetonetflix/)
 
-##[PT]
+## [PT]
 ## Descrição do Projeto
 
 Esse projeto consistiu em recriar a interface da página principal do Netflix utilizando HTML, CSS e Javascript. Aproveitei para colocar em destaque um dos meus filmes favoritos!
