@@ -25,6 +25,10 @@ It was shared by Digital Innovation One in its Linkedin page [here.](https://www
 
 The final webpage is available [here.](https://danimilani.github.io/projetonetflix/)
 
+## Author
+
+Project developed by [Daniella Milani](https://www.linkedin.com/in/daniella-milani/)
+
 ## [PT]
 ## Descrição do Projeto
 
@@ -50,10 +54,6 @@ E foi compartilhado no Linkedin da Digital Innovation One [aqui.](https://www.li
 
 O site final está disponível [aqui.](https://danimilani.github.io/projetonetflix/)
 
-## [EN] Author
-
-Project developed by [Daniella Milani](https://www.linkedin.com/in/daniella-milani/)
-
-## [PT] Autor
+## Autor
 
 Projeto desenvolvido por [Daniella Milani](https://www.linkedin.com/in/daniella-milani/)
